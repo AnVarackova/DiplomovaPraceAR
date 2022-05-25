@@ -4,7 +4,7 @@ Kódy pro praktickou část mé diplomové práce. Cílem této práce je návrh
 
 Jsou zde kódy a soubory pro aplikaci SLAM systému a bezznačkové rozšířené reality:
 
-✦ Model jelena, obj i mlt soubor, se nachází ve složce Deer a model vlka pak ve složce Wolf. Modely byly vytvořeny na stránce Vectary.com.
+✦ Model jelena, obj i mlt soubor, se nachází ve složce Deer a model vlka pak ve složce Wolf. Modely byly vytvořeny na stránce [Vectary.com](https://www.vectary.com/).
 
 ✦ Prvním kódem ke spuštění je kalibrace kamery camera_calib, která počítá parametry kamery používané dál. Je nutné vytisknout vzor šachovnice a nafotit ho vámi používanou kamerou z několika úhlů a vzdáleností. Tyto snímky jsou vstupem algoritmu.
 
